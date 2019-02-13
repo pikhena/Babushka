@@ -1,3 +1,6 @@
 [submodule "BabushkaMarkerInput"]
 	path = BabushkaMarkerInput
 	url = https://github.com/breathhuxi/BabushkaMarkerInput
+[submodule "BabushkaVideoOuput"]
+	path = BabushkaVideoOuput
+	url = https://github.com/breathhuxi/BabushkaVideoOuput
